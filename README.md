@@ -86,87 +86,87 @@ Telefon: +49 176 36604766
 <div class="galerie">
 
     <div class="werk">
-        <img src="bilder/11.5">
+        <img src="bilder/11.5.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung oder Stimmung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/11">
+        <img src="bilder/11.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/10.5">
+        <img src="bilder/10.5.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/10">
+        <img src="bilder/10.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/5.5">
+        <img src="bilder/5.5.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/5">
+        <img src="bilder/5.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/4.5">
+        <img src="bilder/4.5.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/4">
+        <img src="bilder/4.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/7">
+        <img src="bilder/7.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/2.5">
+        <img src="bilder/2.5.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/2">
+        <img src="bilder/2.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/7">
+        <img src="bilder/7.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/9">
+        <img src="bilder/9.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/12">
+        <img src="bilder/12.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/13">
+        <img src="bilder/13.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/1.5">
+        <img src="bilder/1.5.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
     <div class="werk">
-        <img src="bilder/1">
+        <img src="bilder/1.jpg">
         <p>„Titel des Werkes“ – kurze Beschreibung</p>
     </div>
 
